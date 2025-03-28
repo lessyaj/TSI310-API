@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "//Jayssel Galvez 2023-0784\r Estudiante del ITLA",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lessyaj/TSI310-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lessyaj/TSI310-API/issues"
+  },
+  "homepage": "https://github.com/lessyaj/TSI310-API#readme"
 }
